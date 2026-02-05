@@ -14,7 +14,7 @@
 ### Summary
 On October 29, 1969, Charley Kline (UCLA) and Bill Duvall (Stanford Research Institute) attempted to send the first message over ARPANET, the precursor to the modern internet. Kline tried to type "LOGIN" to connect to Duvall's system 350 miles away, but the system crashed after only two letters - "L-O". The crash occurred because the network was much faster than expected (5,000 characters per second vs the usual 10), which overloaded the input buffer like "filling a glass with a fire hose." They fixed the issue within an hour by adjusting the buffer size. Neither scientist realized the historic significance at the time - they were simply trying to get it to work. This "failed" first message became the foundation for the internet that now connects billions of people worldwide.
 
-![ARPANET First Message](images/arpanet.webp)
+![ARPANET First Message](images/LO.webp)
 *The first internet message: just "L-O"*
 
 ### Key Takeaways
